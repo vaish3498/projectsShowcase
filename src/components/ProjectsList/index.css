@@ -1,0 +1,10 @@
+.image {
+  height: 30px;
+  width: 30px;
+  border-radius: 3px;
+}
+
+.name {
+  font-family: Roboto;
+  font-size: 15px;
+}
